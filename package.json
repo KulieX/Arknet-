@@ -1,0 +1,22 @@
+{
+  "name": "@rknet",
+  "version": "1.0.0",
+  "description": "AI sys with Xtff enhancement",
+  "main": "@rknet.js",
+  "scripts": {
+    "test": "@test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KulieX/-rknet.git"
+  },
+  "keywords": [
+    "arknet",
+    "ai"
+    "node"
+    "java"
+    "@rk"
+  ],
+  "author": "Kuliex \"Joshua Burton\"",
+  "license": "ISC"
+}
